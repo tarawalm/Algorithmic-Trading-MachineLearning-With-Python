@@ -14,7 +14,7 @@ Answer the following question: What impact resulted from increasing or decreasin
 
 Adjust one or both of the windows for the algorithm.
 
-!(2.png)
+![Answer for Part 2](2.png)
 
 Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
