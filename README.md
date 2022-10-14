@@ -13,6 +13,7 @@ Answer the following question: What impact resulted from increasing or decreasin
 ### Step 2: Tune the trading algorithm by adjusting the SMA input features. 
 
 Adjust one or both of the windows for the algorithm. 
+
 short_window = 10
 long_window = 50
 
