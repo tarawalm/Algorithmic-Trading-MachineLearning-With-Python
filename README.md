@@ -12,7 +12,9 @@ Answer the following question: What impact resulted from increasing or decreasin
 
 ### Step 2: Tune the trading algorithm by adjusting the SMA input features. 
 
-Adjust one or both of the windows for the algorithm. Rerun the notebook with the updated parameters, and record the results in your `README.md` file. 
+Adjust one or both of the windows for the algorithm.
+
+https://github.com/tarawalm/module_14_challenge/blob/main/step%202%20answer.png
 
 Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
